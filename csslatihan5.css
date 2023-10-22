@@ -35,6 +35,7 @@ p {
 }
 
 #intro {
+    font-size: 20px;
     width:800px;
     margin: 20px auto;
     background-color:rgb(157, 218, 107);
@@ -78,6 +79,7 @@ p {
 }
 
 #outro {
+    font-size: 20px;
     width:800px;
     margin: 20px auto;
     background-color:rgb(157, 218, 107);
