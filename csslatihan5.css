@@ -1,0 +1,86 @@
+body {
+    background-image: url(https://cdn.idntimes.com/content-images/community/2022/10/fromandroid-af1b33a104214d37ea17b2228e00e823_600x400.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    background-size:cover;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    width: 950px;
+    margin: 20px auto;
+    background-color: azure;
+    border: 8px green groove;
+}
+
+h1 {
+    font-size: 30px;
+    background-color:rgb(157, 218, 107);
+    color:black;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(3, 77, 21);
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    text-align: justify;
+    font-size: 18px;
+    margin: 25px center;
+}
+
+#intro {
+    width:800px;
+    margin: 20px auto;
+    background-color:rgb(157, 218, 107);
+    padding: 50px;
+}
+
+/*border di fakta stylenya titik-titik*/
+.fakta1 {
+    width: 900px;
+    margin: 20px auto;
+    background-color: azure;
+    border: 8px green dotted;
+}
+
+.fakta2 {
+    width: 900px;
+    margin: 20px auto;
+    background-color: azure;
+    border: 8px green dotted;
+}
+
+.fakta3 {
+    width: 900px;
+    margin: 20px auto;
+    background-color: azure;
+    border: 8px green dotted;
+}
+
+.fakta4 {
+    width: 900px;
+    margin: 20px auto;
+    background-color: azure;
+    border: 8px green dotted;
+}
+
+.fakta5 {
+    width: 900px;
+    margin: 20px auto;
+    background-color: azure;
+    border: 8px green dotted;
+}
+
+#outro {
+    width:800px;
+    margin: 20px auto;
+    background-color:rgb(157, 218, 107);
+    border: 8px double;
+    padding: 50px;
+}
